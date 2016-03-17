@@ -76,37 +76,10 @@ header img{
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
-#inputCode{
-    margin-bottom: 20px;
-}
-.panel-calculator{
-    padding: 15px;
-    /*margin: 0 auto;*/
-}
-.textarea-out{
-    min-width: 266px;
-    max-width: 266px;
-    display: inline-block;
-    font-weight: bold;
-    font-size: 150%;
-    /*background-color: honeydew;*/
-}
-.btn-out{
-    width: 266px;
-    font-weight: bold;
-    font-size: 150%;
-}
-.calc-button{
-    width: 50px;
-    font-weight: bold;
-    font-size: 150%;
-}
-.error-page-alert{
-    font-size: 200%;
-    font-weight: bold;
-    max-width: 430px;
-    padding: 15px;
-    margin: 0 auto;
+.list-book {
+    background-color: #D9EDF7;
+    
+    border-bottom-style: outset;
 }
 .footer {
     position: absolute;
