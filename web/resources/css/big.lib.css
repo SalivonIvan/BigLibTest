@@ -77,9 +77,9 @@ header img{
     border-top-right-radius: 0;
 }
 .list-book {
-    background-color: #D9EDF7;
+    /*background-color: #D9EDF7;*/
     
-    border-bottom-style: outset;
+    /*border-bottom-style: outset;*/
 }
 .footer {
     position: absolute;
